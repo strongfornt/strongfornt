@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQGqJhRIF6U2pg/profile-displaybackgroundimage-shrink_350_1400/0/1715103919583?e=1723680000&v=beta&t=xMn7Syy9XzYepotLseHchsHmH5TQXg8GlT_PxXpOJRY)
+![Banner](https://drive.google.com/file/d/12ZTkktCt7s36MtTpVkadrH6bvvbhj3Hm/view?usp=drive_link)
 
 <h1 align="center">Hey there 👋, I'm Ahsan Ullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Next.js ,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://ahsan-protfolio.vercel.app/](https://ahsan-protfolio.vercel.app/)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **ahsanullah.mail2@gmail.com**
 
