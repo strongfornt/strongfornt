@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js ,TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://ahsan-protfolio.vercel.app/](https://ahsan-protfolio.vercel.app/)
-
 - 📫 How to reach me **ahsanullah.mail2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
