@@ -1,4 +1,4 @@
-[![Github-Banner.png](https://i.postimg.cc/76hzg8j2/Github-Banner.png)](https://postimg.cc/qhfgTYJJ)
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/76hzg8j2/Github-Banner.png)
 
 <h1 align="center">Hey there 👋, I'm Ahsan Ullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
