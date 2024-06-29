@@ -1,28 +1,32 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQGqJhRIF6U2pg/profile-displaybackgroundimage-shrink_350_1400/0/1715103919583?e=1723680000&v=beta&t=xMn7Syy9XzYepotLseHchsHmH5TQXg8GlT_PxXpOJRY)
 
-### Hey there 👋, I am Ahsan Ullah
-#### Web Developer
+<h1 align="center">Hey there 👋, I'm Ahsan Ullah</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongfornt&label=Profile%20views&color=0e75b6&style=flat" alt="strongfornt" /> </p>
 
-I'm a front-end developer who believes in the power of creativity and collaboration. Proficient in JavaScript, React.js, and Tailwind CSS, I specialize in turning design concepts into pixel-perfect interfaces that engage and delight users. In addition to front-end development, I also have knowledge of server-side development using Express.js and database management with MongoDB. This full-stack knowledge allows me to create end-to-end solutions that are both seamless and scalable.
+- 🌱 I’m currently learning **Next.js ,TypeScript**
 
-Skills: React JS / Next / Redux / Express / MongoDB / Firebase / JS / Tailwind CSS / CSS / Html 
+- 👨‍💻 All of my projects are available at [https://ahsan-protfolio.vercel.app/](https://ahsan-protfolio.vercel.app/)
 
-- 🔭 I’m currently working on DineEase (Hostel-Management-Projects) 
-- 🌱 I’m currently learning Node and Next JS 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: ahsanullah.mail2@gmail.com 
+- 💬 Ask me about **react**
 
+- 📫 How to reach me **ahsanullah.mail2@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/strongfornt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsanullahh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/soyeb)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahsan-ullahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-ullahh" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=strongfornt)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strongfornt)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&show_icons=true&locale=en&layout=compact" alt="strongfornt" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/strongfornt)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&locale=en" alt="strongfornt" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=strongfornt)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strongfornt&" alt="strongfornt" /></p>
 
 
