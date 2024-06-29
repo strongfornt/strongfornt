@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/12ZTkktCt7s36MtTpVkadrH6bvvbhj3Hm/view?usp=drive_link)
+[![Github-Banner.png](https://i.postimg.cc/76hzg8j2/Github-Banner.png)](https://postimg.cc/qhfgTYJJ)
 
 <h1 align="center">Hey there 👋, I'm Ahsan Ullah</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
