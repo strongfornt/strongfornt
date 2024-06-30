@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/449381696_981446176854212_3094200900530890530_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHi9x2uoJtHFWQD0HCVDyymIFhaP5Akyu8gWFo_kCTK73r3LpnSa7dN4vLmuJal1OSjN0H4Z7hPnLQe-Y79FMdw&_nc_ohc=G4Fbk3WZuEIQ7kNvgFiWKtB&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AYCgcjOlMlWFy7nfa6QXNUtGaC8Qix6nkypKkCPtxJuqNQ&oe=66855801)
 
 <h1 align="center">Hey there 👋, I'm Ahsan Ullah</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongfornt&label=Profile%20views&color=0e75b6&style=flat" alt="strongfornt" /> </p>
 
