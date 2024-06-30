@@ -10,16 +10,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Ahsan Ullah</a></b>
+                <b><a target="_blank" href="https://ahsan-protfolio.vercel.app/">Ahsan Ullah</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Front-End Developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
@@ -104,15 +104,15 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+ 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongfornt&theme=radical&border=7F3FBF&background=0D1117" alt="Ahsan's GitHub streak"/>
+ 
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+ 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
+  
 </p>
 
 <a> 
