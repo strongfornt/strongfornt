@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Ahsan Ullah</a></b>
+                <b><a target="_blank" href="https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/">Ahsan Ullah</a></b>
         </samp>
 </h3>
 
@@ -37,7 +37,7 @@
  <a href="https://instagram.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
+ <a href="https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
