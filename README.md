@@ -49,10 +49,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
+ 💬 &emsp; Ask me about anything [here](https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/)<br/>
  📄 &emsp; Know about my experiences [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
 
 </p>
@@ -81,15 +81,7 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 
-<p align="left">
-  <a href="https://github.com/strongfornt?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
