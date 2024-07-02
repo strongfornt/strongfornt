@@ -49,12 +49,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  🌱 &emsp; I’m currently learning **Next.js ,TypeScript**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/)<br/>
- 📄 &emsp; Know about my experiences [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
+ 💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/ahsan-ullahh/)<br/>
+ 📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
 
 </p>
 
@@ -94,7 +93,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongfornt&theme=radical&border=7F3FBF&background=0D1117" alt="Ahsan's GitHub streak"/>
   </a>
 </p>
-
 <a> 
     <a href="https://github.com/alsiam"><img alt="Ahsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alsiam"><img alt="Ahsan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
