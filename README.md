@@ -51,6 +51,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
+ 🌱 &emsp; I’m currently learning **Next.js ,TypeScript**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/)<br/>
  📄 &emsp; Know about my experiences [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
@@ -67,12 +68,11 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Chakra-ui](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge%22)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
