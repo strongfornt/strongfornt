@@ -1,10 +1,10 @@
 <!-- ![cover photo](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/449381696_981446176854212_3094200900530890530_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHi9x2uoJtHFWQD0HCVDyymIFhaP5Akyu8gWFo_kCTK73r3LpnSa7dN4vLmuJal1OSjN0H4Z7hPnLQe-Y79FMdw&_nc_ohc=UGDEpeFGPsgQ7kNvgEUsKe2&_nc_ht=scontent.fdac155-1.fna&oh=00_AYDxYFPknv5zs2MwsgFfOw8Xi3bxbSFkj4o0yAG4HidIIg&oe=66D71501) -->
-<a href="https://www.linkedin.com/in/ahadaulislam">
+<a href="https://www.linkedin.com/in/ahsan-ullahh/">
     <img src="./git-bannger.jpg" alt="Ahsan Ullah"/>
 </a>
 
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=strongfornt">
   <img align="right" src="https://komarev.com/ghpvc/?username=strongfornt&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <!-- Intro  -->
@@ -26,10 +26,10 @@
 
 <p align="center">
  <a href="https://ahsan-protfolio.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ahsan" />
  </a>
  <a href="https://www.linkedin.com/in/ahsan-ullahh/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahsan"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -38,10 +38,10 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
  <a href="https://www.instagram.com/ahsanullah_mubin/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ahsan" />
  </a> 
  <a href="https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ahsan"  />
   </a> 
 </p>
 <br />
@@ -53,7 +53,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 🌱 &emsp; I’m currently learning **Next.js ,TypeScript**<br/>
+ 🌱 &emsp; I’m currently learning **PostgreSQL**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/ahsan-ullahh/)<br/>
  📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
@@ -94,13 +94,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/strongfornt">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongfornt&theme=radical&border=7F3FBF&background=0D1117" alt="Ahsan's GitHub streak"/>
   </a>
 </p>
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Ahsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Ahsan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/strongfornt"><img alt="Ahsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/strongfornt"><img alt="Ahsan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
  
   <br/>
 </a>
