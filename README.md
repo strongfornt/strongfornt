@@ -53,7 +53,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 🌱 &emsp; I’m currently learning **PostgreSQL**<br/>
+ 🌱 &emsp; I’m currently learning **Prisma**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/ahsan-ullahh/)<br/>
  📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
@@ -65,6 +65,8 @@
 <br/>
 
 ## Use To Code
+
+### Front-End
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
