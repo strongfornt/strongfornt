@@ -18,7 +18,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 A passionate Front-End Developer from <b>Bangladesh</b> 」
+    「 A passionate Full stack Developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
@@ -53,7 +53,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 🌱 &emsp; I’m currently learning **Prisma**<br/>
+ 🌱 &emsp; I’m currently learning **PHP**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/ahsan-ullahh/)<br/>
  📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
@@ -84,9 +84,12 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn-F4F4F5?style=for-the-badge&labelColor=18181B)
+![Radix UI](https://img.shields.io/badge/Radix_UI-ffffff?style=for-the-badge&labelColor=000000&logoColor=black)
+
 
 ### 🧰 Back-End
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
