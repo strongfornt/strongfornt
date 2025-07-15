@@ -1,6 +1,6 @@
 <!-- ![cover photo](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/449381696_981446176854212_3094200900530890530_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHi9x2uoJtHFWQD0HCVDyymIFhaP5Akyu8gWFo_kCTK73r3LpnSa7dN4vLmuJal1OSjN0H4Z7hPnLQe-Y79FMdw&_nc_ohc=UGDEpeFGPsgQ7kNvgEUsKe2&_nc_ht=scontent.fdac155-1.fna&oh=00_AYDxYFPknv5zs2MwsgFfOw8Xi3bxbSFkj4o0yAG4HidIIg&oe=66D71501) -->
 <a href="https://www.linkedin.com/in/ahsan-ullahh/">
-    <img src="./git-banner-two.jpg.jpg" alt="Ahsan Ullah"/>
+    <img src="./git-banner-two.jpg" alt="Ahsan Ullah"/>
 </a>
 
 
