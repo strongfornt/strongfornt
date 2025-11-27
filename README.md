@@ -54,10 +54,10 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 🌱 &emsp; I’m currently learning **PHP**<br/>
+ 🌱 &emsp; I’m currently learning **C++**<br/>
  📧 &emsp; Reach me anytime: ahsanullah.mail2@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/ahsan-ullahh/)<br/>
- 📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=drive_link)
+ 📄 &emsp; Check Out My [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=sharing)
 
 </p>
 
@@ -73,6 +73,9 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
+
 
 ### 🌿 Front-End
 
@@ -87,6 +90,7 @@
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn-F4F4F5?style=for-the-badge&labelColor=18181B)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-ffffff?style=for-the-badge&labelColor=000000&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-084E8A?style=for-the-badge&labelColor=black&logo=tanstack&logoColor=white)
 
 
 ### 🧰 Back-End
@@ -100,10 +104,20 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+
+### 🧱 Platforms & CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=000000&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&labelColor=000000&logo=shopify&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0C0D0E?style=for-the-badge&labelColor=000000&logo=framer&logoColor=white)
+
+
 ### 🛠️ Tools & Utilities
 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=000000&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
