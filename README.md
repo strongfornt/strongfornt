@@ -109,14 +109,15 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=000000&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&labelColor=000000&logo=shopify&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0C0D0E?style=for-the-badge&labelColor=000000&logo=framer&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&labelColor=000000&logo=framer&logoColor=white)
+
 
 
 ### 🛠️ Tools & Utilities
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=000000&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
