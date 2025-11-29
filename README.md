@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
- <a href="https://ahsan-protfolio.vercel.app/" target="blank">
+ <a href="https://dev-ahsan-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ahsan" />
  </a>
  <a href="https://www.linkedin.com/in/ahsan-ullahh/" target="_blank">
