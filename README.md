@@ -3,11 +3,15 @@
 
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=strongfornt&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/strongfornt)
+[![Visitors](https://komarev.com/ghpvc/?username=strongfornt&label=Profile%20Views&color=bf91f3&style=flat-square)](https://github.com/strongfornt)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Ahsan%20Ullah-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-ullahh/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-DC143C?style=flat-square&logo=vercel&logoColor=white)](https://dev-ahsan-portfolio.vercel.app/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-bf91f3?style=flat-square&logo=vercel&logoColor=white)](https://dev-ahsan-portfolio.vercel.app/)
+&nbsp;
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/people/Ahsan-Ullah/pfbid02zitbfpxwpUSH76CQj4s99tjnz1HWP67YF88oNfWnkYWu9UkEx7xuumc2YmYAEWJYl/)
-[![Gmail](https://img.shields.io/badge/-ahsanullah.mail2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahsanullah.mail2@gmail.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahsanullah.mail2@gmail.com)
 
 </div>
 
@@ -130,19 +134,32 @@ const ahsan: Developer = {
 
 ## GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&langs_count=8&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongfornt&theme=github-dark-blue&border=30363d&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" />
+  <a href="https://github.com/strongfornt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strongfornt&show_icons=true&count_private=true&theme=tokyonight&border_color=1a1b27&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/strongfornt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongfornt&langs_count=8&layout=compact&theme=tokyonight&border_color=1a1b27&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strongfornt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true" width="95%" />
+  <a href="https://github.com/strongfornt">
+    <img src="https://streak-stats.demolab.com?user=strongfornt&theme=tokyonight&border=1a1b27&background=1a1b27&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/strongfornt">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=strongfornt&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=bf91f3&hide_border=true" width="95%" />
+  </a>
 </div>
 
 ---
@@ -154,17 +171,17 @@ const ahsan: Developer = {
 <a href="https://www.linkedin.com/in/ahsan-ullahh/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://dev-ahsan-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23DC143C.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-%23bf91f3.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ahsanullah.mail2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer" width="100%" />
 
 </div>
