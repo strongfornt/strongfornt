@@ -24,7 +24,7 @@ const ahsan: Developer = {
     name: "Ahsan Ullah",
     role: "Full Stack Developer",
     location: "Bangladesh",
-    currentlyLearning: "C++",
+    currentlyLearning: "Rust",
     askMeAbout: ["web dev", "react", "node", "next.js", "databases"],
     funFact: "I love writing code and learning new features!",
 };
@@ -35,7 +35,7 @@ const ahsan: Developer = {
 ### A little more about me...
 
 - I'm a passionate **Full Stack Developer** from Bangladesh
-- Currently diving deep into **C++**
+- Currently diving deep into **Rust**
 - Building modern web apps with **React**, **Next.js**, and **Node.js**
 - Reach me anytime: **ahsanullah.mail2@gmail.com**
 - Check out my [resume](https://drive.google.com/file/d/1rfP1zBbilV5CxKzunSS6dM2W5q3YBA4K/view?usp=sharing)
